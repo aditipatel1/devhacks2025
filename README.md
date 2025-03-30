@@ -10,6 +10,7 @@
 - Match users with verified walking partners based on proximity and destination.
 - Personalized filters (e.g., gender, age, ethnicity) ensure comfort and compatibility.
 - Reduce risks of walking alone, especially at night or in unfamiliar areas.
+- Meet your mutuals but not strangers. Saving you from stalkers and creeps :)
 
 ### **Social Connection**
 - Build meaningful relationships by pairing users with shared interests.
